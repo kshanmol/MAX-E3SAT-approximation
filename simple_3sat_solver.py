@@ -5,7 +5,7 @@
 
 # Observations
 # 1. Performs much better in practice when number of variables is of the same order or greater than the number of clauses
-#	 Try n = 10000, m = 1000 
+#    Try n = 10000, m = 1000 
 # 2. Things get interesting with really less number of variables. The fraction of satisfied clauses approaches its lower bound.
 #    Try n = 10, m = 1000000
 
